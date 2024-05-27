@@ -53,7 +53,12 @@ Ein Spiel, bei dem der Benutzer eine zufällig generierte Zahl zwischen 1 und 10
      ```sh
      git clone https://github.com/moritzmeiser/Azubi-python-intro.git
      ```
-
+    - Navigiere in den Neuen Ordner, indem du im Terminal Folgenden Befehl eingibst:
+  
+     ```sh
+     cd .\Azubi-python-intro\
+     ```
+     
 3. **Ausführung der Programme:**
    - Führe die gewünschten Programme mit Python aus, indem du folgende Zeilen ins Terminal schreibst:
      ```sh
